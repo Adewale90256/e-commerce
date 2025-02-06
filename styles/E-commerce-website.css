@@ -456,6 +456,13 @@ main {
   .second-sec-3 {
     max-width: 100%;
   }
+
+  
+  .third-sec {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 
 @media (max-width: 768px) {
